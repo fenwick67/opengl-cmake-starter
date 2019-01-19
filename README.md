@@ -13,11 +13,12 @@ sudo apt install freeglut3 freeglut3-dev libglew1.5 libglew1.5-dev libglu1-mesa 
 
 ```
 mkdir build
+cd build
 cmake -G "Unix Makefiles" .. && make
 ```
 
 3. run
 
 ```
-./app
+./main
 ```
