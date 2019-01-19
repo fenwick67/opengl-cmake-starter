@@ -5,7 +5,7 @@ This example uses CMake to build a simple openGL example [from the Red Book](www
 1. clone and install deps
 
 ```
-git clone <url>
+git clone git@github.com:fenwick67/opengl-cmake-starter
 sudo apt install freeglut3 freeglut3-dev libglew1.5 libglew1.5-dev libglu1-mesa libglu1-mesa-dev libgl1-mesa-dev libgl1-mesa-glx libgl1-mesa-dev
 ```
 
