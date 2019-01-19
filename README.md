@@ -1,6 +1,6 @@
 # OpenGL CMake Example
 
-This example uses CMake to build a simple openGL example [from the Red Book](www.glprogramming.com/red/chapter01.html).
+This example uses CMake to build a simple openGL example [from the Red Book](http://www.glprogramming.com/red/chapter01.html). Only tested on Ubuntu.
 
 1. clone and install deps
 
